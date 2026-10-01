@@ -1,0 +1,7 @@
+# the registry of VMs this checkout created: per environment, never source
+spinup-vms.json
+spinup-vms.json.tmp
+
+__pycache__/
+*.pyc
+.venv/
